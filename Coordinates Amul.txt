@@ -1,4 +1,4 @@
 Desert : -616 64 806
 Nether Portal (in Nether) : 52 83 64
 Chris Pit : 335 56 690
-Jungle Biome : 3940 75 5176
+Jungle Biome : 3940 65 5176
